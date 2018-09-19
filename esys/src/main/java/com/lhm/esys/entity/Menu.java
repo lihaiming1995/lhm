@@ -100,7 +100,7 @@ public class Menu {
 		this.parent = parent;
 	}
 
-	public List<Menu> getChildren() {
+	public List<Menu> getChildren(){
 		return children;
 	}
 	/*@JsonBackReference*/
